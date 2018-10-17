@@ -1,0 +1,28 @@
+body{
+    background: #0D9DA5;
+}
+span{
+    font-size: 14px;
+    color: floralwhite;
+    font-style: italic;
+}
+div{
+    background: lightblue;
+}
+h1{
+    background: lightyellow;
+}
+h2{
+    background: lightgreen;
+}
+h3{
+    background: brown;
+}
+div > span{
+    font-size: 20px;
+    color: red;
+    font-style: italic;
+}
+ul{
+    list-style-type: circle;
+}
